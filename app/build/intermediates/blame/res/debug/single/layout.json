@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\naval\\Desktop\\Android\\Nestle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\light_control.xml",
+        "source": "C:\\Users\\naval\\Desktop\\Android\\Nestle\\app\\src\\main\\res\\layout\\light_control.xml"
+    },
+    {
+        "merged": "C:\\Users\\naval\\Desktop\\Android\\Nestle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hm10.xml",
+        "source": "C:\\Users\\naval\\Desktop\\Android\\Nestle\\app\\src\\main\\res\\layout\\hm10.xml"
+    },
+    {
+        "merged": "C:\\Users\\naval\\Desktop\\Android\\Nestle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_list_item.xml",
+        "source": "C:\\Users\\naval\\Desktop\\Android\\Nestle\\app\\src\\main\\res\\layout\\device_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\naval\\Desktop\\Android\\Nestle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tethercell.xml",
+        "source": "C:\\Users\\naval\\Desktop\\Android\\Nestle\\app\\src\\main\\res\\layout\\tethercell.xml"
+    },
+    {
+        "merged": "C:\\Users\\naval\\Desktop\\Android\\Nestle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sensortag.xml",
+        "source": "C:\\Users\\naval\\Desktop\\Android\\Nestle\\app\\src\\main\\res\\layout\\sensortag.xml"
+    },
+    {
+        "merged": "C:\\Users\\naval\\Desktop\\Android\\Nestle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_list.xml",
+        "source": "C:\\Users\\naval\\Desktop\\Android\\Nestle\\app\\src\\main\\res\\layout\\device_list.xml"
+    }
+]
